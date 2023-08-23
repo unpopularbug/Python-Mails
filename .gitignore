@@ -1,0 +1,6 @@
+smtp_server =smtp.gmail.com
+smtp_port =587
+sender_email =django.testcase1@gmail.com
+sender_password =tlpyhwpbrqnyecjf
+recipient_email =django.testcase2@gmail.com
+
